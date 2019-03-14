@@ -1,0 +1,347 @@
+{
+    "sys": {
+        "type": "Array"
+    },
+    "total": 4,
+    "skip": 0,
+    "limit": 100,
+    "items": [
+        {
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "u04vqzzou2k1"
+                    }
+                },
+                "id": "VMfqz2eB37xJK86t1FZSs",
+                "type": "Entry",
+                "createdAt": "2019-03-12T11:43:46.914Z",
+                "updatedAt": "2019-03-12T11:43:46.914Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "UI/UX Design",
+                "description": "Itaque earum rerum hic tenetur a sapiente, ut aut reiciendis maiores",
+                "photo": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "1nyvS6DRQLtqDlf9aMpLW3"
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "u04vqzzou2k1"
+                    }
+                },
+                "id": "7wvtqixWQBXAm88VLrvG7W",
+                "type": "Entry",
+                "createdAt": "2019-03-12T11:42:53.867Z",
+                "updatedAt": "2019-03-12T11:42:53.868Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Photography",
+                "description": "Accusamus et iusto odio dignissimos ducimus qui blanditiis",
+                "photo": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "69nbxvTatAoUbbklzrJkut"
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "u04vqzzou2k1"
+                    }
+                },
+                "id": "3gEWjYWRwqJj98x5dfa2y7",
+                "type": "Entry",
+                "createdAt": "2019-03-12T11:39:49.769Z",
+                "updatedAt": "2019-03-12T11:39:49.769Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Web Development",
+                "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.",
+                "photo": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "1vG7UL9by8rsXjmg8kbMHq"
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "u04vqzzou2k1"
+                    }
+                },
+                "id": "62b0AfdtrCvnUNpv5XtCgm",
+                "type": "Entry",
+                "createdAt": "2019-03-12T11:41:07.706Z",
+                "updatedAt": "2019-03-12T11:41:07.706Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Visualisation",
+                "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe",
+                "photo": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "dcWlP5W8AMEf0KsughyQG"
+                    }
+                }
+            }
+        }
+    ],
+    "includes": {
+        "Asset": [
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "u04vqzzou2k1"
+                        }
+                    },
+                    "id": "1nyvS6DRQLtqDlf9aMpLW3",
+                    "type": "Asset",
+                    "createdAt": "2019-03-12T11:43:43.306Z",
+                    "updatedAt": "2019-03-12T11:43:43.306Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "UI/UX Design",
+                    "file": {
+                        "url": "//images.ctfassets.net/u04vqzzou2k1/1nyvS6DRQLtqDlf9aMpLW3/23786f3c768c01128f7e8dc77689d1c4/uxui.jpg",
+                        "details": {
+                            "size": 42151,
+                            "image": {
+                                "width": 200,
+                                "height": 200
+                            }
+                        },
+                        "fileName": "uxui.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "u04vqzzou2k1"
+                        }
+                    },
+                    "id": "1vG7UL9by8rsXjmg8kbMHq",
+                    "type": "Asset",
+                    "createdAt": "2019-03-12T11:37:27.992Z",
+                    "updatedAt": "2019-03-12T11:37:27.992Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "web",
+                    "file": {
+                        "url": "//images.ctfassets.net/u04vqzzou2k1/1vG7UL9by8rsXjmg8kbMHq/aba43a6cefc6524d9873d6d823497b6e/web.jpg",
+                        "details": {
+                            "size": 55012,
+                            "image": {
+                                "width": 200,
+                                "height": 200
+                            }
+                        },
+                        "fileName": "web.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "u04vqzzou2k1"
+                        }
+                    },
+                    "id": "69nbxvTatAoUbbklzrJkut",
+                    "type": "Asset",
+                    "createdAt": "2019-03-12T11:42:44.853Z",
+                    "updatedAt": "2019-03-12T11:42:44.853Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Photography",
+                    "file": {
+                        "url": "//images.ctfassets.net/u04vqzzou2k1/69nbxvTatAoUbbklzrJkut/0fd1ab2b9c033ca8f2462429470c5bc4/photography.jpg",
+                        "details": {
+                            "size": 63066,
+                            "image": {
+                                "width": 200,
+                                "height": 200
+                            }
+                        },
+                        "fileName": "photography.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "u04vqzzou2k1"
+                        }
+                    },
+                    "id": "dcWlP5W8AMEf0KsughyQG",
+                    "type": "Asset",
+                    "createdAt": "2019-03-12T11:40:55.869Z",
+                    "updatedAt": "2019-03-12T11:40:55.869Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Visualisation",
+                    "file": {
+                        "url": "//images.ctfassets.net/u04vqzzou2k1/dcWlP5W8AMEf0KsughyQG/1e9f96e0c7fd9ad754a6691af8713614/visialization.jpg",
+                        "details": {
+                            "size": 73809,
+                            "image": {
+                                "width": 200,
+                                "height": 200
+                            }
+                        },
+                        "fileName": "visialization.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            }
+        ]
+    }
+}
+
+
+https://github.com/tcoffeeadmin/contentful
+
+contentful-test1.github.io
+
+https://github.com/tcoffeeadmin/contentful-test
+
+https://github.com/tcoffeeadmin/contentful-testing.github.io
